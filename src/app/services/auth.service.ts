@@ -10,7 +10,7 @@ import {Token} from "../models/token";
 })
 export class AuthService {
 
-  private url = 'https://tai21-test.herokuapp.com/api';
+  private url = 'https://gr3-l11-ah-server.herokuapp.com/api';
 
   constructor(private http: HttpClient) {
   }
